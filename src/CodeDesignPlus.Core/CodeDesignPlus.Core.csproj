@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<ProjectGuid>7232A2F1-6953-4202-9696-202E7A43E7DD</ProjectGuid>
+		<ProjectGuid>D1A439B3-AC32-43DC-A5A1-8FBA4D238873</ProjectGuid>
 		<TargetFramework>netcoreapp3.1</TargetFramework>
 		<Authors>CodeDesignPlus</Authors>
 		<Description>Contiene las interfaces y modelos necesarios para las diferentes restricciones en el SDK</Description>
