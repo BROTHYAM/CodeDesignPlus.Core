@@ -15,7 +15,7 @@ namespace CodeDesignPlus.Core.Test.Helpers.Context
         {
         }
 
-        //PRUEBA GITHUB
+        //PRUEBA GITHUB VERSION
 
         /// <summary>
         /// Crea una nueva instancia de FakeContext
