@@ -12,6 +12,7 @@
 		<PackageIcon>logo.png</PackageIcon>
 		<RepositoryType>Git</RepositoryType>
 		<PackageTags>CodeDesignPlus Core SDK</PackageTags>
+		<PackageId>CodeDesignPlus.CoreSDK</PackageId>
 	</PropertyGroup>
 	 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
